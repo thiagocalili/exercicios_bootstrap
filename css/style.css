@@ -1,0 +1,31 @@
+.navbar {
+    background-color: #0040FF;
+}
+
+.apresenta {
+    background-color: #A9D0F5;
+    color: white;
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.texto{
+    margin-left: 30px; margin-right: 30px; margin-top: 30px;
+    text-align: justify;
+}
+.parceiros{
+    background-color: turquoise;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.servicos{
+    text-align: justify;
+    padding-bottom: 20px;
+}
+.txtfooter{
+    background-color: black;
+    color: white;
+}
